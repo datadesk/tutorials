@@ -3,7 +3,7 @@
 All of our code examples and tutorials. Also available as [a CSV file](tutorials.csv).
 
 | date | slug |
-|:--|:--|:--|
+|:--|:--|
 |  2018-12-09 | [california-in-mercator](https://beta.observablehq.com/@palewire/california-in-mercator) |
 |  2018-12-02 | [mapbox-geocoder-example](https://beta.observablehq.com/@palewire/mapbox-geocoder-example) |
 |  2018-11-28 | [interrupted-mollweide-hemispheres](https://beta.observablehq.com/@palewire/interrupted-mollweide-hemispheres) |
