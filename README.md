@@ -4,6 +4,10 @@ All of our code examples and tutorials. Also available as [a CSV file](tutorials
 
 | date | slug |
 |:--|:--|
+|  2019-04-01 | [us-census-charts](https://observablehq.com/collection/@datadesk/u-s-census-data) |
+|  2019-03-28 | [swana-population-map](https://observablehq.com/@datadesk/swana-population-map) |
+|  2019-03-02 | [first-observable-notebook](https://observablehq.com/@palewire/first-observable-notebook) |
+|  2019-02-26 | [responsive-fullscreen-header-example](https://github.com/datadesk/responsive-fullscreen-header-example) |
 |  2018-12-09 | [california-in-mercator](https://beta.observablehq.com/@palewire/california-in-mercator) |
 |  2018-12-02 | [mapbox-geocoder-example](https://beta.observablehq.com/@palewire/mapbox-geocoder-example) |
 |  2018-11-28 | [interrupted-mollweide-hemispheres](https://beta.observablehq.com/@palewire/interrupted-mollweide-hemispheres) |
