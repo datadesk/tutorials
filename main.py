@@ -7,7 +7,7 @@ env = jinja2.Environment(loader=loader)
 
 def render():
     # Read in the notebook
-    object_list = csv.DictReader(open("./examples.csv", 'r'))
+    object_list = csv.DictReader(open("./tutorials.csv", 'r'))
 
     # Render the template
     template = env.get_template("README.md")
